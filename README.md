@@ -1,8 +1,11 @@
-### Olá eu sou Vitor Kross
+<h2 align="center">Hello, I'm Vitor Kross</h2>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=13-VK&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13-VK&layout=compact&langs_count=7&theme=dark">
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-kross-6aa38823a/)
-
-![Kross GitHub stats](https://github-readme-stats.vercel.app/api?username=13-VK&show_icons=true&theme=dark)
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="VK-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
