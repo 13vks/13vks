@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Vitor Kross</h2>
 
 <div align="center">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=13-VK&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=13vks&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
 
 ##
