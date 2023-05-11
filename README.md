@@ -1,4 +1,4 @@
-<div style="font-size: 250%" align="center">
+<div style="font-size: 1000%" align="center">
   Olá! Eu sou Vitor Kross, estudante da ETEC e Pentester!
 </div>
 <br>
