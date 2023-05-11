@@ -1,7 +1,7 @@
-<div style="font-size: 150%" align="center">
+<div style="font-size: 250%" align="center">
   Olá! Eu sou Vitor Kross, estudante da ETEC e Pentester!
 </div>
-
+<br>
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=13vks&show_icons=true&include_all_commits=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true&border_radius=12">
 </div>
