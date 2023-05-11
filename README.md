@@ -1,5 +1,7 @@
-<div style="font-size: 60px" align="center">
-  Olá! Eu sou Vitor Kross, estudante da ETEC e Pentester!
+<div align="center">
+  <h2>
+    Olá! Eu sou Vitor Kross, estudante da ETEC e Pentester!
+  </h2>
 </div>
 <br>
 <div align="center">
