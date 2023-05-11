@@ -1,5 +1,5 @@
 <h2 align="center">
-  Olá! Eu sou Vitor Kross, estudante da ETEC e 
+  Olá! Eu sou Vitor Kross, estudante da ETEC e Pentester!
 </h2>
 
 <div align="center">
