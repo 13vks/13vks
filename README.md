@@ -1,7 +1,10 @@
-<h2 align="center">Hello, I'm Vitor Kross</h2>
+<h2 align="center">
+  Olá! Eu sou Vitor Kross, estudante da ETEC e 
+</h2>
 
 <div align="center">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=13vks&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=13vks&show_icons=true&include_all_commits=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true&border_radius=12">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13vks&layout=compact&langs_count=7&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true&border_radius=12">
 </div>
 
 ##
