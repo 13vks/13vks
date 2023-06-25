@@ -37,6 +37,8 @@
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 </div>
 
 ###
